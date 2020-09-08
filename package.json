@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "homepage": "http://Ajuogaaz.github.io/Keeper",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "react": "16.8.6",
